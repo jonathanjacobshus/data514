@@ -28,6 +28,13 @@
 - The recommendation age is consistent per genre and is stored with the genre.
 - Readers are uniquely identified by their email addresses.
 
+![Alt text](https://files.oaiusercontent.com/file-2h198MF37g8HPJAimRMpCKHq?se=2024-04-19T16%3A49%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3DER_Diagram_for_Odegaard_Library.jpeg&sig=YER/ri%2BjrHON2n49%2BKc%2BAwIh/GSDDGVKQ7Fs4jGWH8o%3D "ER Diagram for Odegaard Library")
+
+
+
+
+
+
 
 ### Question 2
 ```sql
